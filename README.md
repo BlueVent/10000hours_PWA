@@ -1,2 +1,2 @@
 # 10000hours_PWA
-pwa 기초하
+pwa 기초하기
